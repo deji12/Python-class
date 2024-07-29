@@ -17,6 +17,5 @@ for name in names:
 
 print(new_name_list)
 
-# [expression for item in iterable]
 new_list_by_comprehension = [name.upper() for name in names]
 print(new_list_by_comprehension)
