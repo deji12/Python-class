@@ -28,3 +28,5 @@ for i in names:
 capitalized_names = [name.capitalize() for name in names if isinstance(name, str)]
 
 print(capitalized_names)
+
+# talk about breaking code with functions and prevent repition
