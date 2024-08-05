@@ -27,3 +27,23 @@ print(human["children"])
 human["name"] = "Taiwo"
 
 print(human)
+
+
+
+mylist = [
+    {
+        "name": "Taiwo",
+        "age": 78
+    },
+    {
+        "name": "Deji",
+        "age": 103
+    },
+    {
+        "name": "Joshua",
+        "age": 34
+    }
+]
+
+for i in mylist:
+    print(i["name"])
