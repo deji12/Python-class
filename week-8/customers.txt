@@ -1,0 +1,5 @@
+Name: John Doe, Email: johndoe@gmail.com, Phone: 12345678
+Name: Femi Lawal, Email: flawal@gmail.com, Phone: 2345678
+Name: Jane Doe, Email: janedoe@gmail.com, Phone: 345678
+Name: Deji, Email: deji@hotmail.com, Phone: 45678
+Name: Precious, Email: precious@gmail.com, Phone: 08123476
